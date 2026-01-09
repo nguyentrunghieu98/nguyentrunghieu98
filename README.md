@@ -35,7 +35,7 @@ Always exploring better ways to build scalable, maintainable software.
 
 #### 🧩 Libraries & Frameworks
 <p>
-  <img src="	https://github.com/andyhoanghuu/andyhoanghuu/raw/master/logo/magento.png" height="40" alt="Magento"/>
+  <img src="https://github.com/andyhoanghuu/andyhoanghuu/raw/master/logo/magento.png" height="40" alt="Magento"/>
   <img src="https://avatars.githubusercontent.com/u/33643075?s=280&v=4" height="40" alt="Airflow"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Docker.svg" height="40" alt="Docker"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GraphQL-Dark.svg" height="40" alt="GraphQL"/>
