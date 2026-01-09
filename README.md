@@ -35,7 +35,7 @@ Always exploring better ways to build scalable, maintainable software.
 
 #### 🧩 Libraries & Frameworks
 <p>
-  <img src="https://camo.githubusercontent.com/7a45d9a1915d2c02a04bcf93507332331119628312e49a6ff2b0e05659fd8463/68747470733a2f2f7777772e6a616a756d612e64652f6d656469612f777973697779672f6a616a756d612d646576656c6f702f6d6167656e746f2d69636f6e2e737667" height="40" alt="Magento"/>
+  <img src="	https://github.com/andyhoanghuu/andyhoanghuu/raw/master/logo/magento.png" height="40" alt="Magento"/>
   <img src="https://avatars.githubusercontent.com/u/33643075?s=280&v=4" height="40" alt="Airflow"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Docker.svg" height="40" alt="Docker"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GraphQL-Dark.svg" height="40" alt="GraphQL"/>
@@ -74,12 +74,6 @@ Always exploring better ways to build scalable, maintainable software.
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/BitBucket-Dark.svg" height="40" alt="BitBucket"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Mint-Dark.svg" height="40" alt="Linux"/>
 </p>
-
-
----
-
-### 🚀 Quick Stats
-![nguyentrunghieu98's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyentrunghieu98&show_icons=true&theme=dark)
 
 ---
 ### 📬 Find me at  
